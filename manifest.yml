@@ -3,6 +3,6 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: watsonTutorSoftwareDesignPeds
-  host: watsonTutorSoftwareDesignPeds
+  name: watsonSoftwareTutorDesignPeds
+  host: watsonsoftwaretutordesignpeds
   disk_quota: 1024M
